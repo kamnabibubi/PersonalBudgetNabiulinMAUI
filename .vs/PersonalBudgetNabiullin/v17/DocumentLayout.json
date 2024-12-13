@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PersonalBudget\\PersonalBudgetNabiullin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D65D2218-21D9-4627-AAD2-E5439F32FB6E}|PersonalBudgetNabiullin.csproj|c:\\users\\user\\desktop\\personalbudget\\personalbudgetnabiullin\\databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65D2218-21D9-4627-AAD2-E5439F32FB6E}|PersonalBudgetNabiullin.csproj|solutionrelative:databasecontext\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65D2218-21D9-4627-AAD2-E5439F32FB6E}|PersonalBudgetNabiullin.csproj|c:\\users\\user\\desktop\\personalbudget\\personalbudgetnabiullin\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65D2218-21D9-4627-AAD2-E5439F32FB6E}|PersonalBudgetNabiullin.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65D2218-21D9-4627-AAD2-E5439F32FB6E}|PersonalBudgetNabiullin.csproj|c:\\users\\user\\desktop\\personalbudget\\personalbudgetnabiullin\\personalbudgetnabiullin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D65D2218-21D9-4627-AAD2-E5439F32FB6E}|PersonalBudgetNabiullin.csproj|solutionrelative:personalbudgetnabiullin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PersonalBudget\\PersonalBudgetNabiullin\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DatabaseContext\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PersonalBudget\\PersonalBudgetNabiullin\\DatabaseContext\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DatabaseContext\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:44:37.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PersonalBudget\\PersonalBudgetNabiullin\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PersonalBudget\\PersonalBudgetNabiullin\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T16:42:13.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonalBudgetNabiullin",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PersonalBudget\\PersonalBudgetNabiullin\\PersonalBudgetNabiullin.csproj",
+              "RelativeDocumentMoniker": "PersonalBudgetNabiullin.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PersonalBudget\\PersonalBudgetNabiullin\\PersonalBudgetNabiullin.csproj",
+              "RelativeToolTip": "PersonalBudgetNabiullin.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwDwAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-13T16:40:27.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
